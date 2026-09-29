@@ -1,0 +1,41 @@
+{
+  "personal": {
+    "name": "ROBIN.DEV",
+    "title": "IT Support & Web Developer",
+    "location": "Kenya",
+    "description": "I am an aspiring IT professional interested in IT support, networking, cybersecurity and web development."
+  },
+  "skills": [
+    "IT Support",
+    "Computer Troubleshooting",
+    "Networking",
+    "Web Development",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Cybersecurity",
+    "Windows",
+    "Linux"
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "description": "A responsive personal portfolio website built with HTML, CSS and JavaScript.",
+      "link": "#"
+    },
+    {
+      "name": "Customer Feedback Portal",
+      "description": "A web application designed for collecting customer feedback, complaints and ratings.",
+      "link": "#"
+    },
+    {
+      "name": "IT Support Projects",
+      "description": "Practical projects involving computer troubleshooting, networking and technical support.",
+      "link": "#"
+    }
+  ],
+  "contact": {
+    "email": "robinmuliango@gmail.com",
+    "github": "https://github.com/ro649"
+  }
+}
